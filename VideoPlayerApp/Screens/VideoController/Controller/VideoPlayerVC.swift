@@ -25,6 +25,7 @@ class VideoPlayerVC: UIViewController {
     }
     
     // MARK: - Local Function
+    // MARK: - Local Function // MARK: - Local Function
     func setupUI(){
         self.videoPlayerCollectionView.dataSource = self
         self.videoPlayerCollectionView.delegate = self
