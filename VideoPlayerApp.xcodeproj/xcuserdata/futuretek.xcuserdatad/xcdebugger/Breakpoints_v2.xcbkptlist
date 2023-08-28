@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F8604513-B8B7-4D4D-AF94-C38E581E516A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F295911B-D910-4D50-9901-549C9B5A720D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoPlayerApp/VideoPlayerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C89CE0CF-A185-426D-9B6D-6549E500ED11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoPlayerApp/VideoPlayerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "VideoPlayerVC"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoPlayerApp/VideoPlayerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "VideoPlayerVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - bdeca4fde7101e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.videoUrlArr.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - 91e1e6f80f2225e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.videoUrlArr.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - f5fa4eb50ec28b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.videoUrlArr.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - 6f42252b46a1b013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.videoUrlArr.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - af28b0d47c033138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; VideoPlayerApp.VideoPlayerVC"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "446">
+               </Location>
+               <Location
+                  uuid = "6F799F4B-8546-4C22-9D4F-89D7F491F5B2 - cfcccd5c960cf983"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoPlayerApp.VideoPlayerVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;VideoPlayerApp.VideoPlayerVC&gt;"
+                  moduleName = "VideoPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/futuretek/Desktop/VideoPlayerApp/VideoPlayerApp/VideoPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "397">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8932C938-9066-4912-A00F-DABDBD8B6E4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoPlayerApp/VideoPlayerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
